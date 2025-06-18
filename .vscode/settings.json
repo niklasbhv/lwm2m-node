@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "openthread.h": "c",
+        "gpio.h": "c",
+        "typeinfo": "c",
+        "net_pkt.h": "c",
+        "net_l2.h": "c",
+        "coap.h": "c",
+        "coap_link_format.h": "c",
+        "coap_service.h": "c"
+    }
+}
